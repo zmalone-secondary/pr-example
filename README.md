@@ -1,2 +1,2 @@
 # pr-example
-This is a first commit to a repo.
+Typo fix from another user.
